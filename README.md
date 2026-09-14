@@ -1,6 +1,6 @@
 <div align="center">
 
-Victor Sant'Ana
+<h1>Victor Sant'Ana</h1>
 
 Estudante de Ciência da Computação · Tecnologia · Dados · Automação
 
