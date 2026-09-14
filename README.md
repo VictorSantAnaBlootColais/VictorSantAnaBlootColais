@@ -6,7 +6,7 @@ Estudante de Ciência da Computação · Tecnologia · Dados · Automação
 
 <br>
 
-LinkedIn · GitHub · Email
+<a href="">LinkedIn</a> · GitHub · Email
 
 </div>
 
