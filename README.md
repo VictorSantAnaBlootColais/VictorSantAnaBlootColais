@@ -10,7 +10,7 @@ Estudante de Ciência da Computação · Tecnologia · Dados · Automação
 
 </div>
 
-Sobre mim
+<h2>Sobre mim\n</h2>
 
 Olá! Sou Victor, estudante de Ciência da Computação e interessado em construir soluções utilizando tecnologia.
 
