@@ -35,36 +35,30 @@ Modelagem, consultas e gerenciamento de informações.
 Tecnologias
 
 Linguagens
-
 Python · C · SQL
 
 Dados
-
 MySQL · Excel · Power BI
 
 Automação
-
 n8n · APIs
 
 Ferramentas
-
 Git · GitHub
 
 Projetos
-FatoCheck IA
 
+FatoCheck IA
 Projeto de automação utilizando Inteligência Artificial para análise e verificação de informações.
 
 n8n Python IA APIs
 
 Sistema Python + MySQL
-
 Aplicação desenvolvida para praticar programação e integração com banco de dados.
 
 Python MySQL SQL
 
 Projetos de Dados
-
 Projetos acadêmicos e pessoais para desenvolver conhecimentos em análise, organização e visualização de dados.
 
 Python SQL Excel Power BI
