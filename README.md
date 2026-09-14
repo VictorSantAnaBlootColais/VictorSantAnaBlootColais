@@ -6,7 +6,7 @@ Estudante de Ciência da Computação · Tecnologia · Dados · Automação
 
 <br>
 
-<a href="">LinkedIn</a> · GitHub · Email
+<a href="www.linkedin.com/in/victorsantanablootcolais">LinkedIn</a> · <a href="https://www.youtube.com/@VictorSantAnaBlootColais">Youtube</a> · Email: <a href="victor.bloot.santana@gmail.com">victor.bloot.santana@gmail.com</a> . <a href="https://www.instagram.com/victor.santana.colais/">Instagram</a>
 
 </div>
 
