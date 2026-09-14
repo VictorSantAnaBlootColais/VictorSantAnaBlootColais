@@ -79,6 +79,6 @@ Também estou explorando Pandas, Inteligência Artificial e ferramentas voltadas
 <br>
 <div align="center">
 
-Construindo projetos. Aprendendo todos os dias.
+<strong>Construindo projetos. Aprendendo todos os dias.</strong>
 
 </div>
