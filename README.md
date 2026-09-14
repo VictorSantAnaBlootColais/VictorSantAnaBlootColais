@@ -10,15 +10,15 @@ Estudante de Ciência da Computação · Tecnologia · Dados · Automação
 
 </div>
 
-<h2>Sobre mim\n</h2>
+<h2>Sobre mim</h2>
 
 Olá! Sou Victor, estudante de Ciência da Computação e interessado em construir soluções utilizando tecnologia.
 
 Atualmente, estou desenvolvendo meus conhecimentos em Python, SQL, banco de dados, análise de dados e automação, buscando transformar o que aprendo em projetos práticos.
 
 Tenho como objetivo iniciar minha carreira na área de tecnologia e continuar evoluindo por meio de projetos, estudos e experiências profissionais.
-
-Áreas de interesse
+<br>
+<h2>Áreas de interesse</h2>
 
 Ciência de Dados
 Análise, tratamento e visualização de dados.
@@ -31,8 +31,8 @@ Construção de aplicações e soluções utilizando programação.
 
 Banco de Dados
 Modelagem, consultas e gerenciamento de informações.
-
-Tecnologias
+<br>
+<h2>Tecnologias</h2>
 
 Linguagens
 Python · C · SQL
@@ -45,13 +45,8 @@ n8n · APIs
 
 Ferramentas
 Git · GitHub
-
-Projetos
-
-FatoCheck IA
-Projeto de automação utilizando Inteligência Artificial para análise e verificação de informações.
-
-n8n Python IA APIs
+<br>
+<h2>Projetos</h2>
 
 Sistema Python + MySQL
 Aplicação desenvolvida para praticar programação e integração com banco de dados.
@@ -62,8 +57,8 @@ Projetos de Dados
 Projetos acadêmicos e pessoais para desenvolver conhecimentos em análise, organização e visualização de dados.
 
 Python SQL Excel Power BI
-
-Formação
+<br>
+<h2>Formação</h2>
 
 Ciência da Computação
 Universidade Positivo · 2026 — atualmente
@@ -81,7 +76,7 @@ APIs
 Git e GitHub
 
 Também estou explorando Pandas, Inteligência Artificial e ferramentas voltadas à Ciência de Dados.
-
+<br>
 <div align="center">
 
 Construindo projetos. Aprendendo todos os dias.
